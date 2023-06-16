@@ -14,4 +14,4 @@
 ### Plotted Pie Charts for total cases, total deaths, total recovered, total active cases with respect to 15 worst affected countries
 ### Plotted Treemap representation of different countries with respect to total deaths, total recovered, total cases, active cases
 ### Plotted a line chart for various covid cases namely total deaths, total cases, active cases, recovered cases with respect to date
-## 
+##  Finally automated the analysis of visualizing the covid cases of the countries by defining a function and methods for plotting the graphs
